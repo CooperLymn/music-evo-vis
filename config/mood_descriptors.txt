@@ -1,0 +1,17 @@
+# Curated mood/affect labels for the first visualization prototype.
+# One exact CSV descriptor per line. Other descriptors remain in albums.json.
+aggressive
+angry
+anxious
+bittersweet
+calm
+dark
+depressive
+happy
+melancholic
+optimistic
+peaceful
+playful
+sad
+sombre
+uplifting

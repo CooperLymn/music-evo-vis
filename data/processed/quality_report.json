@@ -1,0 +1,65 @@
+{
+  "source_file": "rym_most_rated_5k_albums.csv",
+  "album_count": 5000,
+  "artist_count": 2090,
+  "earliest_release_date": "1954-04-01",
+  "latest_release_date": "2022-02-18",
+  "albums_by_decade": {
+    "1950": 37,
+    "1960": 280,
+    "1970": 644,
+    "1980": 595,
+    "1990": 875,
+    "2000": 1061,
+    "2010": 1231,
+    "2020": 277
+  },
+  "missing_tag_fields": {
+    "secondary_genres": 495,
+    "primary_genres": 1
+  },
+  "descriptor_ellipsis_album_ids": [
+    1177,
+    2014,
+    2273,
+    2676,
+    2799,
+    3489,
+    3561,
+    3690,
+    4381,
+    4425,
+    4462
+  ],
+  "duplicate_tags_within_rows": [
+    {
+      "position": 3513,
+      "field": "descriptors",
+      "tags": [
+        "love",
+        "romantic",
+        "femalevocals",
+        "passionate"
+      ]
+    }
+  ],
+  "duplicate_album_artist_date": [],
+  "position_order_matches_rating_count_order": true,
+  "mood_descriptors": [
+    "aggressive",
+    "angry",
+    "anxious",
+    "bittersweet",
+    "calm",
+    "dark",
+    "depressive",
+    "happy",
+    "melancholic",
+    "optimistic",
+    "peaceful",
+    "playful",
+    "sad",
+    "sombre",
+    "uplifting"
+  ]
+}

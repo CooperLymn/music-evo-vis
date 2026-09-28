@@ -1,0 +1,496 @@
+genre,album_count,first_year,last_year
+Singer-Songwriter,340,1963,2022
+Alternative Rock,337,1983,2021
+Pop Rock,283,1962,2021
+Indie Rock,264,1985,2021
+Hard Rock,203,1968,2018
+Art Pop,198,1967,2022
+East Coast Hip Hop,162,1984,2021
+Progressive Rock,160,1969,2019
+Art Rock,159,1967,2022
+Post-Punk,154,1977,2021
+Indie Pop,151,1980,2021
+Experimental Rock,134,1966,2022
+Neo-Psychedelia,131,1980,2022
+Heavy Metal,126,1970,2021
+Synthpop,123,1977,2022
+Psychedelic Rock,109,1966,2021
+Progressive Metal,98,1986,2021
+Dream Pop,95,1981,2022
+Ambient,88,1971,2021
+Folk Rock,88,1965,2022
+Pop Rap,86,2003,2021
+Psychedelic Pop,83,1966,2022
+Post-Rock,82,1988,2022
+Noise Rock,80,1968,2021
+New Wave,79,1976,2022
+Post-Hardcore,79,1983,2022
+Conscious Hip Hop,78,1987,2021
+Electropop,77,2000,2021
+Electronic,75,1968,2021
+Blues Rock,74,1964,2018
+Trap,74,2010,2021
+Abstract Hip Hop,73,1996,2022
+Southern Hip Hop,73,1994,2021
+West Coast Hip Hop,72,1988,2022
+Alternative Metal,71,1986,2020
+Hardcore Hip Hop,70,1984,2021
+Contemporary Folk,68,1962,2021
+Thrash Metal,67,1983,2019
+Contemporary R&B,64,1979,2022
+Experimental Hip Hop,64,1996,2021
+Indie Folk,64,1994,2022
+Death Metal,58,1985,2019
+Dance-Pop,56,1982,2022
+Black Metal,54,1984,2021
+Gangsta Rap,54,1988,2021
+Alternative R&B,53,2011,2021
+Shoegaze,53,1988,2021
+Indietronica,51,1997,2021
+Punk Rock,51,1976,2014
+Boom Bap,49,1987,2021
+Progressive Pop,49,1967,2021
+Art Punk,46,1977,2021
+Chamber Pop,46,1993,2022
+Pop Punk,46,1979,2020
+IDM,41,1992,2021
+Lo-Fi/Slacker Rock,41,1985,2019
+Power Pop,40,1972,2021
+Jazz Rap,39,1990,2021
+Neo-Soul,38,1995,2021
+Noise Pop,38,1985,2021
+Glam Rock,37,1970,2001
+Ambient Pop,36,1986,2021
+Experimental,36,1969,2021
+Pop,36,1977,2021
+Post-Metal,36,2001,2020
+Atmospheric Black Metal,33,1993,2021
+Drone,32,1973,2020
+Jangle Pop,32,1980,2017
+Psychedelic Folk,31,1966,2019
+Post-Industrial,30,1989,2021
+Jazz Fusion,29,1969,2021
+Jazz-Rock,29,1967,2017
+Krautrock,29,1969,1994
+Slowcore,29,1988,2019
+Alt-Pop,28,2009,2021
+Gothic Rock,28,1980,2019
+Industrial Rock,27,1983,2021
+Math Rock,27,1989,2020
+Melodic Death Metal,27,1993,2013
+Chamber Folk,26,1967,2022
+Garage Rock,26,1964,2017
+Hard Bop,26,1954,1976
+Nu Metal,26,1994,2011
+Progressive Electronic,26,1969,2021
+Stoner Metal,26,1991,2019
+Avant-Garde Metal,25,1987,2021
+Baroque Pop,25,1965,2021
+Garage Rock Revival,25,1996,2020
+Grunge,25,1988,2013
+Technical Death Metal,25,1990,2021
+Alt-Country,24,1988,2021
+Avant-Folk,24,1968,2021
+Country Rock,24,1966,2012
+Film Score,24,1958,2019
+Hardcore Punk,24,1979,2019
+Post-Bop,24,1956,1991
+Power Metal,24,1985,2007
+Sludge Metal,24,1984,2020
+Symphonic Prog,24,1967,1992
+Alternative Dance,23,1985,2020
+Atmospheric Sludge Metal,23,1992,2021
+Britpop,23,1993,2002
+Midwest Emo,23,1994,2019
+Post-Punk Revival,23,2002,2018
+Rock,23,1966,2005
+Avant-Garde Jazz,22,1959,2021
+Glitch Pop,22,2003,2022
+Piano Rock,22,1970,2017
+Folk Pop,21,1964,2021
+Americana,19,1982,2020
+Cloud Rap,19,2008,2021
+Doom Metal,19,1986,2019
+Downtempo,19,1996,2016
+Heartland Rock,19,1973,2021
+Metalcore,19,1996,2021
+Emo,18,1997,2021
+Funk Rock,18,1970,2002
+Groove Metal,18,1990,2021
+Soul,18,1960,2006
+Twee Pop,18,1985,2018
+Ambient Techno,17,1992,2018
+Industrial Hip Hop,17,2002,2021
+Industrial Metal,17,1989,2020
+Modern Classical,17,1958,2021
+Spiritual Jazz,17,1965,2020
+Funk,16,1969,2019
+Hypnagogic Pop,16,2004,2021
+Industrial,16,1977,2020
+Instrumental Hip Hop,16,1996,2021
+Post-Grunge,16,1994,2007
+Sophisti-Pop,16,1982,2021
+Stoner Rock,16,1991,2017
+Bedroom Pop,15,2010,2021
+Drone Metal,15,1992,2021
+Emo-Pop,15,1999,2019
+Gothic Metal,15,1991,2021
+Rock Opera,15,1968,2016
+Skate Punk,15,1982,2004
+Trip Hop,15,1991,2010
+Dance-Punk,14,1979,2019
+Hip Hop,14,2000,2019
+Minimalism,14,1968,2020
+Psychedelic Soul,14,1968,2021
+Canterbury Scene,13,1968,1997
+Country,13,1957,2006
+Film Soundtrack,13,1969,2021
+Free Jazz,13,1961,2019
+Glitch,13,1995,2020
+Glitch Hop,13,2003,2021
+Grindcore,13,1987,2017
+Mathcore,13,1999,2018
+Modal Jazz,13,1959,1969
+Roots Rock,13,1968,1996
+Space Rock,13,1971,1995
+Blackgaze,12,2007,2019
+Electro-Industrial,12,1988,2021
+Political Hip Hop,12,1988,2020
+Southern Rock,12,1969,2007
+UKHip Hop,12,2002,2021
+Vocal Jazz,12,1954,2002
+Indie Surf,11,2009,2016
+Pop Soul,11,1968,2021
+Proto-Punk,11,1965,1976
+Punk Blues,11,1981,2019
+Space Rock Revival,11,1987,2019
+Symphonic Black Metal,11,1994,2003
+Big Beat,10,1994,2009
+Cool Jazz,10,1954,1965
+Emo Rap,10,2016,2020
+Ethereal Wave,10,1982,2013
+Folktronica,10,2001,2019
+Funk Metal,10,1987,1999
+Garage Punk,10,1980,2014
+NWOBHM,10,1980,1983
+Neoclassical Darkwave,10,1985,2021
+New Romantic,10,1980,1985
+No Wave,10,1978,1986
+Noise,10,1975,2020
+Smooth Soul,10,1972,2021
+Sound Collage,10,1968,2020
+Technical Thrash Metal,10,1987,2016
+UKBass,10,2011,2021
+Wonky,10,2006,2017
+Acid Rock,9,1967,2013
+Chillwave,9,2009,2018
+Dark Ambient,9,1997,2020
+Heavy Psych,9,1968,2017
+MPB,9,1970,2019
+Microhouse,9,2000,2020
+Nu Jazz,9,1997,2021
+Plunderphonics,9,1996,2016
+Progressive Folk,9,1970,2017
+Synth Funk,9,1980,2019
+Acoustic Rock,8,1983,2007
+Death Doom Metal,8,1991,2009
+Deconstructed Club,8,2013,2021
+Folk Metal,8,1999,2009
+Glam Metal,8,1981,1989
+Horrorcore,8,1994,2021
+J-Rock,8,2000,2020
+Jazz Pop,8,1975,2019
+New Rave,8,2006,2014
+Rap Rock,8,1987,2003
+Roots Reggae,8,1973,1980
+Screamo,8,2001,2022
+Soft Rock,8,1971,2020
+Symphonic Metal,8,1997,2008
+Turntable Music,8,1996,2019
+Ambient Dub,7,1991,2017
+Darkwave,7,1984,2019
+Djent,7,1995,2016
+Drilland Bass,7,1996,2005
+Folk Punk,7,1983,2011
+Hyperpop,7,2019,2021
+Melodic Hardcore,7,1988,2006
+Melodic Metalcore,7,2002,2008
+Minimal Synth,7,1977,2019
+Neofolk,7,1989,2018
+Neue Deutsche Härte,7,1995,2019
+Rap Metal,7,1992,2000
+Rock & Roll,7,1956,1970
+Southern Soul,7,1965,1973
+Speed Metal,7,1981,1988
+Synth Punk,7,1977,2016
+American Primitivism,6,1967,1997
+Blue-Eyed Soul,6,1967,1980
+Bossanova,6,1959,1974
+British Folk Rock,6,1969,1974
+Bubblegum Bass,6,2015,2020
+Comedy Rock,6,1979,2019
+Deep House,6,2000,2018
+Future Garage,6,2006,2021
+Jazz-Funk,6,1972,2020
+Melodic Black Metal,6,1993,2001
+Mod,6,1965,1968
+Nu-Disco,6,2001,2020
+Pagan Black Metal,6,1995,2009
+Post-Minimalism,6,1977,2021
+Space Ambient,6,1972,1984
+Sunshine Pop,6,1964,1970
+Tape Music,6,1988,2017
+Traditional Doom Metal,6,1984,2011
+USPower Metal,6,1983,1998
+Video Game Music,6,2001,2017
+Anti-Folk,5,1994,2013
+Avant-Prog,5,1969,2021
+Berlin School,5,1974,1978
+Brutal Death Metal,5,1991,1996
+Chamber Music,5,1976,2020
+Chicago Soul,5,1970,1972
+City Pop,5,1977,2020
+Country Pop,5,1968,2021
+Dark Cabaret,5,1987,2002
+Electronic Dance Music,5,2010,2020
+House,5,1993,2020
+Latin Rock,5,1969,1999
+Minimal Techno,5,1998,2011
+Rhythm & Blues,5,1957,2006
+Satire,5,1966,2019
+Shibuya-kei,5,1994,2004
+Swamp Rock,5,1968,1970
+Symphonic Rock,5,1974,2001
+Tech House,5,2007,2020
+Techno,5,1993,2021
+Television Music,5,1965,2017
+Third Stream,5,1960,2021
+Tropicália,5,1968,1970
+AOR,4,1976,1987
+Afrobeat,4,1972,1977
+Baggy/Madchester,4,1989,1994
+Breakbeat,4,1994,2021
+British Rhythm & Blues,4,1964,1965
+Cinematic Classical,4,1977,2006
+Dark Jazz,4,1990,2002
+Death Industrial,4,1987,2019
+Digital Hardcore,4,1995,2020
+Dirty South,4,1996,2011
+Disco,4,1979,2020
+Drumless,4,2016,2020
+Electroacoustic,4,1988,2019
+Electroclash,4,2003,2014
+Footwork,4,2011,2017
+Freak Folk,4,1970,2004
+Gothic Country,4,1996,2019
+Memphis Rap,4,1995,2012
+Merseybeat,4,1963,1964
+Mid-School Hip Hop,4,1984,1987
+Mod Revival,4,1977,1980
+Neo-Prog,4,1983,1987
+Orchestral,4,1958,2001
+P-Funk,4,1974,1978
+Powerviolence,4,2010,2016
+Ska Punk,4,1992,2021
+Vaporwave,4,2010,2021
+Viking Metal,4,1990,2003
+Vocal Surf,4,1962,1964
+Zeuhl,4,1970,1976
+Acid Jazz,3,1993,2017
+Anarcho-Punk,3,1979,1983
+Atmospheric Drumand Bass,3,1995,2020
+Brill Building,3,1963,1977
+Coldwave,3,1986,2018
+Country Soul,3,1969,2016
+Cowpunk,3,1984,1985
+Dark Folk,3,1996,2019
+Deathgrind,3,1989,2019
+Deep Soul,3,1965,1967
+Dub Techno,3,1996,2012
+Dungeon Synth,3,1996,1999
+Electro-Disco,3,1977,2014
+Emoviolence,3,1999,2001
+Europop,3,1976,1980
+Free Folk,3,1970,2009
+Free Improvisation,3,1967,1977
+Future Bass,3,2011,2017
+G-Funk,3,1992,1996
+Hardcore Breaks,3,2012,2021
+Harsh Noise,3,1994,1999
+J-Pop,3,2009,2022
+K-Pop,3,2017,2020
+Mashup,3,2006,2017
+Musiqueconcrète,3,1968,2016
+New Age,3,1975,1989
+Piano Blues,3,1973,1976
+Riot Grrrl,3,1993,1999
+Rockabilly,3,1957,1958
+Rockin Opposition,3,1973,1975
+Samba-rock,3,1970,1976
+Sasscore,3,2003,2006
+Soul Blues,3,1960,1971
+Spaghetti Western,3,1966,2013
+Spoken Word,3,2010,2017
+Standards,3,1954,1956
+Surf Rock,3,1962,1963
+Third Wave Ska,3,1995,2003
+Witch House,3,2010,2016
+2Tone,2,1979,1979
+Acid House,2,1989,2012
+Adult Contemporary,2,2011,2015
+Afro-Jazz,2,2018,2020
+Ambient House,2,1991,2017
+Baroque Music,2,1956,1982
+Beat Music,2,1965,1965
+Big Band,2,1959,1967
+Breakcore,2,1997,2005
+British Blues,2,1966,1969
+Celtic New Age,2,1975,1988
+Celtic Rock,2,1985,1988
+Chamber Jazz,2,1968,1970
+Chipmunk Soul,2,2001,2004
+Christian Hip Hop,2,2019,2021
+Christian Rock,2,1979,2001
+Christmas Music,2,1963,1965
+Crossover Thrash,2,1985,1996
+Death'n'Roll,2,1993,1996
+Deathrock,2,1982,1983
+Depressive Black Metal,2,2007,2007
+Dreampunk,2,2015,2016
+Drumand Bass,2,1996,2005
+Dub,2,1976,1981
+Dubstep,2,2006,2007
+Electric Texas Blues,2,1983,1984
+Electro House,2,2007,2011
+Epic Doom Metal,2,1986,1987
+Experimental Big Band,2,1972,2013
+Flamenconuevo,2,2017,2018
+Folk Baroque,2,1965,1969
+Freakbeat,2,1966,1967
+French House,2,1997,2001
+French Pop,2,1971,1971
+Funeral Doom Metal,2,2006,2017
+Girl Group,2,1963,1964
+Glam Punk,2,1973,2020
+Goregrind,2,1988,1989
+Grime,2,2003,2016
+Horror Punk,2,1982,1983
+Jam Band,2,1968,1972
+Jazz,2,1998,2011
+Minimal Wave,2,1980,1982
+Musical Comedy,2,2017,2021
+Musical Parody,2,1976,2019
+Neoclassical New Age,2,1972,2014
+New Jack Swing,2,1989,1991
+Power Electronics,2,2003,2021
+Progressive House,2,1994,1995
+Psychobilly,2,1980,1981
+Pub Rock,2,1977,2006
+Samba,2,1963,1972
+Sequencer & Tracker,2,2011,2015
+Surf Punk,2,1981,2010
+Synthwave,2,2011,2014
+Teen Pop,2,1999,2000
+Totalism,2,1981,2020
+UKGarage,2,2002,2013
+Vaportrap,2,2012,2013
+Yacht Rock,2,1977,1980
+Zolo,2,1988,1996
+Acappella,1,2004,2004
+Balearic Beat,1,2012,2012
+Bitpop,1,2008,2008
+Black'n'Roll,1,2010,2010
+Blues,1,1967,1967
+Bolero,1,1997,1997
+Boogie Rock,1,2019,2019
+Breakbeat Hardcore,1,1992,1992
+British Dance Band,1,2016,2016
+Brostep,1,2011,2011
+Bulgarian Folk Music,1,1975,1975
+Caribbean Folk Music,1,1970,1970
+Celtic Punk,1,1988,1988
+Chanson,1,1971,1971
+Comedy Rap,1,2017,2017
+Cowboy,1,1959,1959
+Crust Punk,1,2020,2020
+D-Beat,1,1982,1982
+Dance,1,2000,2000
+Darksynth,1,2014,2014
+Deathcore,1,2006,2006
+Doo-Wop,1,1968,1968
+Drill,1,2012,2012
+EBM,1,1981,1981
+Emocore,1,1985,1985
+Epic Collage,1,2015,2015
+Euro House,1,2020,2020
+Euro-Disco,1,1979,1979
+European Free Jazz,1,1968,1968
+Flamenco Pop,1,2018,2018
+Footwork Jungle,1,2014,2014
+Funktronica,1,2013,2013
+Funky House,1,2016,2016
+Future Funk,1,2013,2013
+Futurepop,1,2012,2012
+Ghazal,1,2021,2021
+Hex D,1,2021,2021
+Hi-NRG,1,1988,1988
+Hip House,1,2014,2014
+Horror Synth,1,2014,2014
+Indeterminacy,1,1968,1968
+Jazzmanouche,1,1968,1968
+Jazzstep,1,1997,1997
+Jungle,1,1997,1997
+Latin Alternative,1,1998,1998
+Latin Electronic,1,2021,2021
+Lounge,1,2017,2017
+Mandopop,1,1996,1996
+Mexican Folk Music,1,2020,2020
+Microsound,1,2005,2005
+Mobb Music,1,2016,2016
+Modern Creative,1,1970,1970
+Neo-Medieval Folk,1,1990,1990
+Neoclassical Metal,1,1997,1997
+Neue Deutsche Welle,1,1981,1981
+New Music,1,1978,1978
+New Orleans R&B,1,1968,1968
+Noisecore,1,1998,1998
+Novelty,1,2017,2017
+Nuevacanciónlatinoamericana,1,2018,2018
+Nyahbinghi,1,1974,1974
+Opera,1,2020,2020
+Outlaw Country,1,1975,1975
+Outsider House,1,2015,2015
+Paisley Underground,1,1982,1982
+Picopop,1,2004,2004
+Polyphonic Chant,1,1975,1975
+Pop Reggae,1,2006,2006
+Power Noise,1,2002,2002
+Progressive Big Band,1,1959,1959
+Progressive Breaks,1,2021,2021
+Progressive Country,1,2016,2016
+Psychedelia,1,2005,2005
+Purple Sound,1,2011,2011
+Rage,1,2020,2020
+Ranchera,1,2020,2020
+Ratchet Music,1,2014,2014
+Reggaetón,1,2020,2020
+Ritual Ambient,1,2009,2009
+Romanticism,1,1967,1967
+Samba Soul,1,1970,1970
+Samba-jazz,1,1964,1964
+Soncubano,1,1997,1997
+Soul Jazz,1,2003,2003
+Soundtracks,1,2019,2019
+Southern Metal,1,1995,1995
+Space Age Pop,1,1976,1976
+Spirituals,1,2018,2018
+Symphony,1,1992,1992
+Tishoumaren,1,2021,2021
+Trance Metal,1,2014,2014
+Trap Metal,1,2018,2018
+Tribal Ambient,1,1980,1980
+Unclassified,1,1977,1977
+Utopian Virtual,1,2011,2011
+War Metal,1,1990,1990
+White Voice,1,1975,1975
+Yé-yé,1,1962,1962

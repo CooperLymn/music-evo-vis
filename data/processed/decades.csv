@@ -1,0 +1,9 @@
+decade,album_count,default_view,coverage_note
+1950,37,False,sparse sample
+1960,280,True,
+1970,644,True,
+1980,595,True,
+1990,875,True,
+2000,1061,True,
+2010,1231,True,
+2020,277,False,incomplete decade
